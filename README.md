@@ -2,7 +2,7 @@
 
 A modern, highly responsive AI SaaS Dashboard built to showcase advanced frontend development skills. It features a stunning dark mode UI, interactive data visualizations, and a premium component architecture.
 
-**🔴 Live Demo (Vercel): [https://ai-dashboard-nine-kappa.vercel.app](https://ai-dashboard-nine-kappa.vercel.app)**
+### 🔴 [Click Here to View Live Project](https://ai-dashboard-nine-kappa.vercel.app)
 
 ![Dashboard Preview](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1600&q=80)
 
@@ -22,38 +22,4 @@ A modern, highly responsive AI SaaS Dashboard built to showcase advanced fronten
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Recharts](https://recharts.org/)
 - [Framer Motion](https://www.framer.com/motion/)
-- [Lucide React](https://lucide.dev/) (Icons)
-
-## 💻 Getting Started
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/sahariarhossain524-sketch/Ai-Dashboard.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd Ai-Dashboard
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-4. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the live dashboard.
-
-## 🌐 Deployment
-
-This application is optimized for deployment on [Vercel](https://vercel.com/new).
-
-## 👨‍💻 Author
-
-Designed and developed to demonstrate professional frontend engineering capabilities.
+- [Lucide React](https://lucide.dev/)
