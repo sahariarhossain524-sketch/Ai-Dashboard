@@ -2,6 +2,8 @@
 
 A modern, highly responsive AI SaaS Dashboard built to showcase advanced frontend development skills. It features a stunning dark mode UI, interactive data visualizations, and a premium component architecture.
 
+**🔴 Live Demo (Vercel): [https://ai-dashboard-nine-kappa.vercel.app](https://ai-dashboard-nine-kappa.vercel.app)**
+
 ![Dashboard Preview](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1600&q=80)
 
 ## ✨ Key Features
